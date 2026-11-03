@@ -1,4 +1,4 @@
-# Vision Dataset Viewer
+# Vision Dataset Viewer and Editor
 
 Простой инструмент для визуализации и редактирования датасетов компьютерного зрения в форматах **YOLO** и **COCO** с помощью [FiftyOne](https://docs.voxel51.com/).
 
